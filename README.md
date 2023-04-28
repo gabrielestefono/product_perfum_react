@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Perfum Product - React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é o meu projeto de Perfum Product feito em React.JS, ele também foi feito em HTML e CSS e Vue.JS, seguem os links
 
-## Available Scripts
+Segue o link do repositório do mesmo projeto feito em React.JS:
 
-In the project directory, you can run:
+https://github.com/gabrielestefono/product_perfum
 
-### `npm start`
+Segue o link do repositório do mesmo projeto feito em Vue.JS:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://github.com/gabrielestefono/product_perfum_vue
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Pré Requisitos
+* Navegador
+* Node.Js
 
-### `npm test`
+## Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Node.Js
+* Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo em https://nodejs.org/.
+#### Clone o repositório do GitHub em seu computador:
+git clone https://github.com/gabrielestefono/product_perfum_react.git
+#### Acesse a sua pasta através do terminal
+cd product_perfum_react.git
+#### Instale as dependências 
+Execute o comando -> npm install
+#### Execute o aplicativo localmente:
+Execute o comando -> npm start
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Pronto! Agora você deve estar visualizando o website localmente no seu navegador.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Como usar:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A página é uma web aplicação que mostra o display de um produto feito em React.JS.
 
-### `npm run eject`
+## Contato
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+email: gabrielestefono@hotmail.com
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Link do deploy
+https://gabrielestefono.github.io/product_perfum_react/
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Screenshot
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
