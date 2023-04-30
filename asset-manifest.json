@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/product_perfum_react/static/css/main.a3528da0.css",
+    "main.js": "/product_perfum_react/static/js/main.1792bb0b.js",
+    "static/js/787.824f5045.chunk.js": "/product_perfum_react/static/js/787.824f5045.chunk.js",
+    "static/media/image-product-desktop.jpg": "/product_perfum_react/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/product_perfum_react/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/product_perfum_react/index.html",
+    "main.a3528da0.css.map": "/product_perfum_react/static/css/main.a3528da0.css.map",
+    "main.1792bb0b.js.map": "/product_perfum_react/static/js/main.1792bb0b.js.map",
+    "787.824f5045.chunk.js.map": "/product_perfum_react/static/js/787.824f5045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3528da0.css",
+    "static/js/main.1792bb0b.js"
+  ]
+}
