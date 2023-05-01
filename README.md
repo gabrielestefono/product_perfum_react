@@ -2,7 +2,7 @@
 
 Este é o meu projeto de Perfum Product feito em React.JS, ele também foi feito em HTML e CSS e Vue.JS, seguem os links
 
-Segue o link do repositório do mesmo projeto feito em React.JS:
+Segue o link do repositório do mesmo projeto feito em JavaScript Vanilla:
 
 https://github.com/gabrielestefono/product_perfum
 
@@ -42,4 +42,6 @@ email: gabrielestefono@hotmail.com
 https://gabrielestefono.github.io/product_perfum_react/
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/104292192/235544601-c87b4ed0-a9ac-425e-94c6-5b44e1acbbb0.png)
+
 
